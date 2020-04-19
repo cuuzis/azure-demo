@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/angular-app/angular-app.iml" filepath="$PROJECT_DIR$/angular-app/angular-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/azure-demo.iml" filepath="$PROJECT_DIR$/.idea/azure-demo.iml" />
     </modules>
   </component>
