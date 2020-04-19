@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-app';
+
+  onErrorClick() {
+    throw new Error("Ooops, error triggered...");
+  }
 }
